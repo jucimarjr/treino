@@ -10,4 +10,4 @@ for i in range(inicial, final + 1):
     soma += i
     print (i)
 
-print ('A soma dos números e', soma)
+print ('A soma dos números é', soma)
