@@ -21,11 +21,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="29.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="29.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/29.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="62">
-              <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+              <caret line="2" column="42" lean-forward="true" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="30.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/30.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -47,6 +57,7 @@
         <option value="$PROJECT_DIR$/27.py" />
         <option value="$PROJECT_DIR$/28.py" />
         <option value="$PROJECT_DIR$/29.py" />
+        <option value="$PROJECT_DIR$/30.py" />
       </list>
     </option>
   </component>
@@ -117,25 +128,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.29">
-    <configuration name="25" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\kaioc\OneDrive\Área de Trabalho\Python\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="lista3" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/25.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.30">
     <configuration name="26" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,20 +201,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="30" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="lista3" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/30.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.25" />
-      <item index="1" class="java.lang.String" itemvalue="Python.26" />
-      <item index="2" class="java.lang.String" itemvalue="Python.27" />
-      <item index="3" class="java.lang.String" itemvalue="Python.28" />
-      <item index="4" class="java.lang.String" itemvalue="Python.29" />
+      <item index="0" class="java.lang.String" itemvalue="Python.26" />
+      <item index="1" class="java.lang.String" itemvalue="Python.27" />
+      <item index="2" class="java.lang.String" itemvalue="Python.28" />
+      <item index="3" class="java.lang.String" itemvalue="Python.29" />
+      <item index="4" class="java.lang.String" itemvalue="Python.30" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.29" />
-        <item index="1" class="java.lang.String" itemvalue="Python.28" />
-        <item index="2" class="java.lang.String" itemvalue="Python.27" />
-        <item index="3" class="java.lang.String" itemvalue="Python.26" />
-        <item index="4" class="java.lang.String" itemvalue="Python.25" />
+        <item index="0" class="java.lang.String" itemvalue="Python.30" />
+        <item index="1" class="java.lang.String" itemvalue="Python.29" />
+        <item index="2" class="java.lang.String" itemvalue="Python.28" />
+        <item index="3" class="java.lang.String" itemvalue="Python.27" />
+        <item index="4" class="java.lang.String" itemvalue="Python.26" />
       </list>
     </recent_temporary>
   </component>
@@ -296,6 +307,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/29.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="2" column="42" lean-forward="true" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/28.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
@@ -304,10 +323,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/29.py">
+    <entry file="file://$PROJECT_DIR$/30.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        <state relative-caret-position="124">
+          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="30" />
           <folding />
         </state>
       </provider>
